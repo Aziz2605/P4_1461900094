@@ -1,3 +1,5 @@
 <h1>Catatan</h1>
-<h4>Join Menggunakan Eloquent</h4><br>
-<h4>Database bernama p_pagi.sql pada file laravel</h4>
+<ol>
+    <li>Join Menggunakan Eloquent</li>
+    <li>Database saya upload juga di file laravel dengan nama P_PAGI, karena ada struktur field yang saya rubah untuk kebutuhan join</li>    
+</ol>
